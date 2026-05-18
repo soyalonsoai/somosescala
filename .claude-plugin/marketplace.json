@@ -1,0 +1,25 @@
+{
+  "name": "somosescala",
+  "owner": {
+    "name": "Alonso Vega — Somos Escala"
+  },
+  "plugins": [
+    {
+      "name": "somos-escala-premium",
+      "source": "./plugins/somos-escala-premium",
+      "description": "Skills premium de la comunidad de Somos Escala servidas vía MCP remoto. Requiere licencia (variable de entorno SOMOS_ESCALA_TOKEN). Incluye 'crear-bot-ghl' (bot de WhatsApp con GoHighLevel) y más skills por venir.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Alonso Vega"
+      },
+      "keywords": [
+        "somos-escala",
+        "ghl",
+        "gohighlevel",
+        "chatbot",
+        "whatsapp",
+        "mcp"
+      ]
+    }
+  ]
+}
