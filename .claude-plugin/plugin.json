@@ -1,0 +1,18 @@
+{
+  "name": "somos-escala-premium",
+  "version": "0.1.0",
+  "description": "Plugin shell de Somos Escala — conecta a un MCP server remoto que sirve las skills premium (crear-bot-ghl y más). Requiere un Personal Token de Somos Escala (variable SOMOS_ESCALA_TOKEN).",
+  "author": {
+    "name": "Alonso — Somos Escala"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/soyalonsoai/somos-escala-premium-plugin",
+  "keywords": [
+    "somos-escala",
+    "ghl",
+    "gohighlevel",
+    "chatbot",
+    "whatsapp",
+    "mcp"
+  ]
+}
