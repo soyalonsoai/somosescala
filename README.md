@@ -29,7 +29,7 @@ Cierra y reabre la terminal para que cargue la variable.
 ### 2. Instala el plugin en Claude Code
 
 ```
-/plugin marketplace add soyalonsoai/somos-escala-premium-plugin
+/plugin marketplace add soyalonsoai/somosescala
 /plugin install somos-escala-premium@somos-escala-premium-plugin
 ```
 
