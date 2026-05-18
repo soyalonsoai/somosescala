@@ -2,7 +2,7 @@
   "mcpServers": {
     "somos_escala_premium": {
       "type": "http",
-      "url": "https://somos-escala-mcp.up.railway.app/mcp",
+      "url": "https://somos-escala-mcp-production.up.railway.app/mcp",
       "headers": {
         "Authorization": "Bearer ${SOMOS_ESCALA_TOKEN}"
       }
